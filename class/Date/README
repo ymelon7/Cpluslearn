@@ -1,0 +1,11 @@
+Date类
+a)  数据成员：year/month/day
+b)  提供两个构造函数 
+c)  实现功能setDate设,set date
+d)  把时间设定为今天 setToday();
+e)  toString()  打印格式：2009/7/31
+f)  toFormatString：对于月份采用英文 September 19 2014
+g)  isLeapYear() 判断是否是闰年
+h)  calDayOfYear() 计算该日期是当年的第几天（注意闰年）
+i)  写一个全局的函数int diffeDate(const Date &d1, const Date &d2);
+    比较两个日期的差异（d1 - d2）， 可以写为static函数

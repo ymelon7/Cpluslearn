@@ -22,3 +22,5 @@ int main (int argc, char *argv[])
     cout << "today is 2014's " << d.calDaysOfYear() << "day" << endl;
     cout << "this year left " << d.calLeftDaysOfYear() << "day" << endl;
 }
+
+
