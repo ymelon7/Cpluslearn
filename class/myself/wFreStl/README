@@ -1,0 +1,9 @@
+word frequency stastics program:
+
+a)   改用map和set实现
+b)  输出时，按照词频，从大到小输出（思考）。
+c)  用vector存储pair的形式进行改写。比较二者的性能。
+d)  用class实现统计。
+e)  compute the time
+
+
